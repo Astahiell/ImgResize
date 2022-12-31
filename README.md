@@ -1,4 +1,4 @@
-Image resize written in JavaScript script to use in command line.
+Image resize written in JavaScript to use in command line.
 
 # Installation
 
