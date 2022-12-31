@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "image-size": "^1.0.2",
+    "jimp": "^0.16.2",
+    "prompt": "^1.3.0"
+  },
+  "name": "imgresize",
+  "version": "1.0.0",
+  "description": "Image resize written in JavaScript script to use in command line.",
+  "main": "resize.js",
+  "directories": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Astahiell",
+  "license": "MIT"
+}
